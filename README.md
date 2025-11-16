@@ -27,36 +27,36 @@ Atualmente, foco em APIs REST, microsserviços, deploy em AWS e integrações mo
   <img align="center" alt="Spring" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
-  <!-- AWS (melhor versão para temas claro/escuro) -->
-  <img align="center" alt="AWS" height="45"
+  <!-- AWS -->
+  <img align="center" alt="AWS" height="40"
        src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
 
   <!-- JavaScript -->
-  <img align="center" alt="JavaScript" height="35"
+  <img align="center" alt="JavaScript" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <!-- HTML -->
-  <img align="center" alt="HTML" height="35"
+  <img align="center" alt="HTML" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
   <!-- CSS -->
-  <img align="center" alt="CSS" height="35"
+  <img align="center" alt="CSS" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <!-- PostgreSQL -->
-  <img align="center" alt="PostgreSQL" height="35"
+  <img align="center" alt="PostgreSQL" height="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
   <!-- React -->
-  <img align="center" alt="React" height="35"
+  <img align="center" alt="React" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   <!-- Git -->
-  <img align="center" alt="Git" height="35"
+  <img align="center" alt="Git" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
   <!-- Bootstrap -->
-  <img align="center" alt="Bootstrap" height="35"
+  <img align="center" alt="Bootstrap" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
 </div>
