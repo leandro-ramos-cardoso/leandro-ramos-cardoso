@@ -11,54 +11,23 @@ Sou desenvolvedor Java e Spring Boot, apaixonado por backend, boas práticas e c
 Atualmente, foco em APIs REST, microsserviços, deploy em AWS e integrações modernas.
 
 ## Bem-vindo(a) ao meu perfil 😁  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&width=435&lines=Desenvolvedor+Backend+Java;Apaixonado+por+Spring+Boot;Focado+em+AWS+e+Microsserviços" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&width=435&lines=Desenvolvedor+Backend+Java;Apaixonado+por+Spring+Boot;" />
 
 
 
 ### 💼 Tecnologias de conhecimento (Full Stack)
     
-<div style="display: inline_block"><br>
-
-  <!-- Java -->
-  <img align="center" alt="Java" height="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-  <!-- Spring -->
-  <img align="center" alt="Spring" height="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-
-  <!-- AWS -->
-  <img align="center" alt="AWS" height="40"
-       src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-
-  <!-- JavaScript -->
-  <img align="center" alt="JavaScript" height="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <!-- HTML -->
-  <img align="center" alt="HTML" height="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <!-- CSS -->
-  <img align="center" alt="CSS" height="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <!-- PostgreSQL -->
-  <img align="center" alt="PostgreSQL" height="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-
-  <!-- React -->
-  <img align="center" alt="React" height="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  <!-- Git -->
-  <img align="center" alt="Git" height="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-  <!-- Bootstrap -->
-  <img align="center" alt="Bootstrap" height="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
+<div align="left">
+  <img height="40" style="margin-right: 12px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img height="40" style="margin-right: 12px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  <img height="40" style="margin-right: 12px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+  <img height="40" style="margin-right: 12px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img height="40" style="margin-right: 12px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img height="40" style="margin-right: 12px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img height="40" style="margin-right: 12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="40" style="margin-right: 12px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img height="40" style="margin-right: 12px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img height="40" style="margin-right: 12px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
  
